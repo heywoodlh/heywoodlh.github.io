@@ -624,7 +624,7 @@ pre code {
 * {box-sizing:border-box}
 
 /* Container for skill bars */
-.container {
+.skills-container {
     width: 100%; /* Full width */
 }
 
