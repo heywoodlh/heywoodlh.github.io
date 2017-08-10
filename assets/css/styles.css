@@ -615,3 +615,30 @@ pre code {
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
 /* Large devices (large desktops, 1200px and up) */
+
+
+/**** CUSTOM CSS ****/
+
+/** Skills Bars **/
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+    width: 100%; /* Full width */
+    background-color: #ddd; /* Grey background */
+}
+
+.skills {
+    text-align: right; /* Right-align text */
+    padding-right: 20px; /* Add some right padding */
+    line-height: 40px; /* Set the line-height to center the text inside the skill bar, and to expand the height of the container */
+    color: white; /* White text color */
+}
+
+.server {width: 90%; background-color: #98baf2;}
+.scripting {width: 85%; background-color: #a9afba;} 
+.linux {width: 80%; background-color: #1e417a;} 
+.webdev {width: 70%; background-color: #82adf2;} 
+.programming {width: 60%; background-color: #2e3644;}
+.python {width: 50%; background-color: #347cf9;}
