@@ -236,7 +236,7 @@ pre code {
 .about {
   padding: 80px 0;
   background: #f5f5f5;
-}
+} 
 .about .title {
   color: #2a435c;
   margin-top: 0;
@@ -626,7 +626,6 @@ pre code {
 /* Container for skill bars */
 .container {
     width: 100%; /* Full width */
-    background-color: #6690b9;
 }
 
 .skills {
@@ -642,3 +641,5 @@ pre code {
 .webdev {width: 70%; background-color: #82adf2;} 
 .programming {width: 60%; background-color: #2e3644;}
 .python {width: 50%; background-color: #347cf9;}
+
+.about-container {background-color: #f5f5f5;}
