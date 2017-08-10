@@ -635,7 +635,7 @@ pre code {
     color: white; /* White text color */
 }
 
-.server {width: 90%; background-color: #98baf2; margin-bottom: 20px;}
+.server {width: 85%; background-color: #98baf2; margin-bottom: 20px;}
 .scripting {width: 85%; background-color: #a9afba; margin-bottom: 20px;} 
 .linux {width: 80%; background-color: #1e417a; margin-bottom: 20px;} 
 .webdev {width: 70%; background-color: #82adf2; margin-bottom: 20px;} 
