@@ -626,7 +626,6 @@ pre code {
 /* Container for skill bars */
 .container {
     width: 100%; /* Full width */
-    background-color: #ddd; /* Grey background */
 }
 
 .skills {
