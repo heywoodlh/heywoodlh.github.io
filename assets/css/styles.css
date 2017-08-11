@@ -653,7 +653,7 @@ pre code {
 
 @media only screen and (max-width: 600px)  {
  
-.html {
+html {
  overflow-x: hidden;
  }
 
