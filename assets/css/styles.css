@@ -622,6 +622,16 @@ pre code {
 .title-highlight {
  color: #f46fa3;
 }
+
+.contact {
+ background: #F5F5F5;
+}
+
+.contact-text-center {
+ text-align: center;
+ color: #4A77A2;
+}
+
 /** Skills Bars **/
 /* Make sure that padding behaves as expected */
 * {box-sizing:border-box}
