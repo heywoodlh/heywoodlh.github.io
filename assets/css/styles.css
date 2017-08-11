@@ -644,12 +644,8 @@ pre code {
 
 .about-container {background-color: #f5f5f5;}
 
-.profilepic {  
-  width: 300px;
-  height: 300px;
-  border-radius: 50%; /*don't forget prefixes*/
-  background-image: url("path/to/image");
-  background-position: center center;
-  /* as mentioned by Vad: */
-  background-size: cover;
+.profilepic { 
+ vertical-align: middle;
+ left: -200px;
+ position: relative; 
 }
