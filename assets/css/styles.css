@@ -664,4 +664,9 @@ pre code {
  .title-highlight {
  display: block;
  color: #f46fa3;
+ }
+
+ .github-content {
+ padding-left: 0px;
+ }
 }
