@@ -94,7 +94,7 @@ pre code {
 /* ======= Header ======= */
 .header {
   padding: 10px 0;
-  background: #6690b9;
+  background: #FFFFFF;;
   color: #fff;
   position: fixed;
   width: 100%;
@@ -630,6 +630,10 @@ pre code {
 .contact-text-center {
  text-align: center;
  color: #4A77A2;
+}
+
+.logo-title {
+ color: color: #6690B9;
 }
 
 /** Skills Bars **/
