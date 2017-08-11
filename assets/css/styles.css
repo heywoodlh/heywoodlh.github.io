@@ -619,6 +619,9 @@ pre code {
 
 /**** CUSTOM CSS ****/
 
+.title-highlight {
+ color: #f46fa3;
+}
 /** Skills Bars **/
 /* Make sure that padding behaves as expected */
 * {box-sizing:border-box}
