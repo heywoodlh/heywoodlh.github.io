@@ -668,6 +668,14 @@ pre code {
 
 /* CSS for mobile devices */
 
+@media only screen and (max-width: 800px) {
+
+ .server {
+ width: 79%;
+ }
+
+}
+
 @media only screen and (max-width: 600px)  {
  
  html {
@@ -686,12 +694,4 @@ pre code {
  .github-content {
  padding-left: 0px;
  }
-}
-
-@media (max-width: 800px) and (min-width: 600px) {
-
- .server {
- width: 79%;
- }
-
 }
