@@ -687,3 +687,13 @@ pre code {
  padding-left: 0px;
  }
 }
+
+@media only screen (min width: 600px) and (max width: 800px) {
+
+ .server {
+ width: 79%;
+ }
+
+}
+
+
