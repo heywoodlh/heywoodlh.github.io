@@ -688,8 +688,7 @@ pre code {
  }
 }
 
-@media screen (min width: 400px) and (max width: 500px) {
-
+@media only screen and (min-device-width : 600px) and (max-device-width : 700px) {
  .server {
  width: 79%;
  }
