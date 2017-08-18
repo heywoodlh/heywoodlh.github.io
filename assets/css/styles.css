@@ -689,6 +689,7 @@ pre code {
 }
 
 @media (max-width: 800px) and (min-width: 600px) {
+
  .server {
  width: 79%;
  }
