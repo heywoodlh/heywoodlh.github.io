@@ -686,14 +686,14 @@ pre code {
 }
 
 .year {
- color: #999;
+ color: #F5F5F5;
  font-weight: normal;
 }
  
 .employer {
  font-family: "Lato", arial, sans-serif;
  font-size: 13px;
- color: #999;
+ color: #F5F5F5;
  font-weight: 600;
  padding-left: 25px;
 }
