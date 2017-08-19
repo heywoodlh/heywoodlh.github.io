@@ -669,7 +669,7 @@ pre code {
 /* Work Experience CSS */
 
 .work-experience {
- background-color: #426A90;
+ background-color: #6690B9;
  padding: 80px;
 }
 
@@ -696,6 +696,19 @@ pre code {
  color: #999;
  font-weight: 600;
  padding-left: 25px;
+}
+
+/* Github section CSS */
+
+.github-container {
+ padding: 80px 0;
+ background: #f5f5f5;
+}
+
+.github-title {
+ color: #2a435c;
+ margin-top: 0;
+ margin-bottom: 60px;
 }
 
 /* CSS for mobile devices */
