@@ -673,6 +673,18 @@ pre code {
  padding: 80px;
 }
 
+.work-heading {
+ font-family: 'Montserrat', sans-serif;
+ font-weight: 700;
+ color: #2A435C;
+}
+
+.work-title {
+ font-family: 'Montserrat', sans-serif;
+ font-weight: 700;
+ color: #2A435C;
+}
+
 .year {
  color: #999;
  font-weight: normal;
