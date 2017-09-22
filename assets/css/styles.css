@@ -619,6 +619,10 @@ pre code {
 
 /**** CUSTOM CSS ****/
 
+html {
+overflow-x: hidden;
+}
+
 .title-highlight {
  color: #f46fa3;
 }
