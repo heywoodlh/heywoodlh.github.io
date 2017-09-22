@@ -729,6 +729,10 @@ overflow-x: hidden;
  width: 79%;
  }
 
+ .github-container {
+  padding-left: 0px;
+ }
+
 }
 
 @media only screen and (max-width: 400px)  {
