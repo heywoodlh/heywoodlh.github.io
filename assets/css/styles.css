@@ -711,6 +711,10 @@ pre code {
  margin-bottom: 60px;
 }
 
+.github-content {
+ right: -70px;
+}
+
 /* CSS for mobile devices */
 
 @media only screen and (max-width: 600px) {
