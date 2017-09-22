@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: devAid - Responsive Website Template for developers
  * Version: 1.1
  * Author: Xiaoying Riley
@@ -236,7 +236,7 @@ pre code {
 .about {
   padding: 80px 0;
   background: #f5f5f5;
-} 
+}
 .about .title {
   color: #2a435c;
   margin-top: 0;
@@ -653,17 +653,17 @@ pre code {
 }
 
 .server {width: 85%; background-color: #98baf2; margin-bottom: 20px; right: -14px; position: relative;}
-.scripting {width: 85%; background-color: #a9afba; margin-bottom: 20px;} 
-.linux {width: 80%; background-color: #1e417a; margin-bottom: 20px;} 
-.webdev {width: 70%; background-color: #82adf2; margin-bottom: 20px;} 
+.scripting {width: 85%; background-color: #a9afba; margin-bottom: 20px;}
+.linux {width: 80%; background-color: #1e417a; margin-bottom: 20px;}
+.webdev {width: 70%; background-color: #82adf2; margin-bottom: 20px;}
 .programming {width: 60%; background-color: #2e3644; margin-bottom: 20px;}
 .python {width: 50%; background-color: #347cf9;}
 
 .about-container {background-color: #f5f5f5;}
 
-.profilepic { 
+.profilepic {
  vertical-align: middle;
- border-radius: 50%; 
+ border-radius: 50%;
 }
 
 /* Work Experience CSS */
@@ -689,7 +689,7 @@ pre code {
  color: #F5F5F5;
  font-weight: normal;
 }
- 
+
 .employer {
  font-family: "Lato", arial, sans-serif;
  font-size: 13px;
@@ -703,16 +703,13 @@ pre code {
 .github-container {
  padding: 80px 0;
  background: #f5f5f5;
+ padding-left: 100px;
 }
 
 .github-title {
  color: #2a435c;
  margin-top: 0;
  margin-bottom: 60px;
-}
-
-.github-content {
- right: -70px;
 }
 
 /* CSS for mobile devices */
@@ -730,7 +727,7 @@ pre code {
 }
 
 @media only screen and (max-width: 400px)  {
- 
+
  html {
  overflow-x: hidden;
  }
@@ -738,7 +735,7 @@ pre code {
  .server {
  width: 76%;
  }
- 
+
  .title-highlight {
  display: block;
  color: #f46fa3;
