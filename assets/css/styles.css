@@ -656,12 +656,10 @@ overflow-x: hidden;
     color: white; /* White text color */
 }
 
-.server {width: 85%; background-color: #98baf2; margin-bottom: 20px; right: -14px; position: relative;}
+.server {width: 95%; background-color: #98baf2; margin-bottom: 20px; right: -14px; position: relative;}
 .scripting {width: 85%; background-color: #a9afba; margin-bottom: 20px;}
-.linux {width: 80%; background-color: #1e417a; margin-bottom: 20px;}
+.python {width: 75%; background-color: #347cf9;}
 .webdev {width: 70%; background-color: #82adf2; margin-bottom: 20px;}
-.python {width: 65%; background-color: #347cf9;}
-.programming {width: 60%; background-color: #2e3644; margin-bottom: 20px;}
 
 
 .about-container {background-color: #f5f5f5;}
