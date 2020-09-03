@@ -669,6 +669,7 @@ overflow-x: hidden;
 .profilepic {
  vertical-align: middle;
  border-radius: 50%;
+ transform: rotate(90deg);
 }
 
 /* Work Experience CSS */
